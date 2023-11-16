@@ -1,0 +1,31 @@
+.blue-red-button {
+    background-color: rgb(16,20,76);
+    color: white;
+    padding: 4px 16px;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .blue-red-button:hover {
+    background-color: rgb(216,52,52);
+  }
+
+  .blue-red:hover{
+    color: rgb(216,52,52);
+  }
+
+  
+
+.blue-red-text {
+  color: rgb(16, 20, 76);
+}
+
+.blue-red-text:hover {
+  color: rgb(216, 52, 52);
+}
+
+
+  
